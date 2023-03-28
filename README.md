@@ -21,7 +21,6 @@ A Collaborative project built by a team of 3 executed in 7 days.
 #### Familiar with Git ?
 
 ```
-> git clone https://github.com/icyflame21/Amazon-Prime-Clone.git
 > cd Amazon-Prime-Clone
 > npm install
 > npm start
@@ -67,33 +66,6 @@ download the .zip file.  Extract the contents of the zip file, then open your te
 - Static Payment Page created using styled components and MUI icons as this project primarily focuses on front-end.
 - Animation effects on movie page using BootStrap 5 i.e.; Carasouel, Popovers etc.
 
-## Snap Shots 📷
-
-**Home Page**
-
-![Logo](https://images2.imgbox.com/fa/62/TCkJtA3F_o.jpg)
-
-**Sign In**
-
-![Logo](https://images2.imgbox.com/55/8e/f9v3aKKV_o.jpg)
-
-**Log In**
-
-![Logo](https://images2.imgbox.com/9e/9e/UZ4fDGvU_o.jpg)
-
-**Payment Section**
-
-![Logo](https://images2.imgbox.com/65/bc/20Y3bY71_o.jpg)
-
-**Movie Page after user login**
-
-![Logo](https://images2.imgbox.com/66/c3/v9VUf8vh_o.jpg)
-
-**YouTube Trailer**
-
-![Logo](https://images2.imgbox.com/9c/d8/0ZIiZwcn_o.jpg)
-
-
 ## References ⏩
 
 * Icons are used from  material UI  
@@ -109,11 +81,6 @@ download the .zip file.  Extract the contents of the zip file, then open your te
     https://www.npmjs.com/package/react-youtube 
 
 
-## Contributors  😇
-
-- 👤 [Biswaranjan](https://www.github.com/icyflame21) (Team Lead)
-- 👤 [Rajan Kumar](https://www.github.com/Rajan1397)
-- 👤 [Abhijeet Sinha](https://www.github.com/Abhijeetsinha471)
 
 
 
